@@ -1,0 +1,1 @@
+FLASK_APP=yelp/app.py flask run

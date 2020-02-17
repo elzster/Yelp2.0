@@ -1,0 +1,10 @@
+##to Ignore Files
+
+.ipynb_checkpoints
+yelp/__pycache__/
+yelp/__pycache__/__init__.cpython-36.pyc
+yelp/__pycache__/app.cpython-36.pyc
+yelp/__pycache__/__init__.cpython-36.pyc
+*.pyc
+*.pyc
+yelp/__pycache__/app.cpython-36.pyc
