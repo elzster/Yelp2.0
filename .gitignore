@@ -10,3 +10,4 @@ yelp/__pycache__/__init__.cpython-36.pyc
 yelp/__pycache__/app.cpython-36.pyc
 yelp/data/config.py
 yelp/data/
+.vscode
